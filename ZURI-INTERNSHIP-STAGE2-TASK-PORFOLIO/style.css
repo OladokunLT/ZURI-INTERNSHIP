@@ -299,6 +299,10 @@
     vertical-align: middle;
   }
   
+  #hng-logo-footer {
+    vertical-align: middle;
+  }
+
   @media (max-width: 28.75em) {
     footer {
       flex-direction: column;
